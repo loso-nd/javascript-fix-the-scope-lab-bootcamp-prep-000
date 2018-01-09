@@ -1,4 +1,4 @@
-var index = require('../index-test.js');
+//var index = require('../index-test.js');
 var animal = 'dog'
 
 function myAnimal() {
