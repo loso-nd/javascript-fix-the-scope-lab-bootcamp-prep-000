@@ -1,3 +1,4 @@
+var index = require('../index-test.js');
 var animal = 'dog'
 
 function myAnimal() {
@@ -15,7 +16,7 @@ function yourAnimal() {
 
 function add2(n) {
   const two = 2
-  return `n + ${two}`
+  return n + two
 
   // Feel free to move things around!
 }
